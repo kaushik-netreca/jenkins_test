@@ -1,3 +1,2 @@
 # jenkins CI test
-Jenkins first build succeeded
-Testing Jenkins CI
+Jenkins BUILD after version control
