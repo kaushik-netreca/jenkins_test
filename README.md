@@ -1,3 +1,3 @@
 # jenkins CI test
-Jenkins BUILD after version control v1.1
-Jenkins building nodejs on BUILD
+1. Setup CI with GitHub Webhooks and Jenkins.
+2. Run a sample nodejs Hello World script as a build example.
